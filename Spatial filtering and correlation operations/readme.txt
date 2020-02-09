@@ -1,0 +1,1 @@
+This project is created with the purpose of creating and applying spatial filters and also use correlation for match operation. The detailed report of this project is attached as report.pdf within the repository.

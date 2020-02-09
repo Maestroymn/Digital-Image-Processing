@@ -1,0 +1,1 @@
+This project is created with the purpose of using image pyramids for image blending operations.The detailed report of this project is attached as report.pdf within the repository.

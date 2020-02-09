@@ -1,0 +1,1 @@
+This project is created with the purpose of colorizing the Prokudin-Gorskii photo collection. The detailed report of this project is attached as report.pdf within the repository.

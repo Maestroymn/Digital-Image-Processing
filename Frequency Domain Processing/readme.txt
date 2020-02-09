@@ -1,0 +1,1 @@
+This project is created with the purpose of creating and applying frequency domain filters for both smoothin and sharpening purposes. The detailed report of this project is attached as report.pdf within the repository.
